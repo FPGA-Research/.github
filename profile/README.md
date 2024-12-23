@@ -9,7 +9,7 @@ Group of Dirk Koch and his great students and postdocs.
 - [FABulous](https://github.com/FPGA-Research/FABulous) - FPGA Fabric generator
 - [FABulator](https://github.com/FPGA-Research/FABulator) - Graphical frontend for FABulous
 
-### Bitstream analyzation and manipulation
+### Bitstream Analyzation and Manipulation
 - [GoAhead](https://github.com/FPGA-Research/GoAhead)
 - [byteman](https://github.com/FPGA-Research/byteman)
 
