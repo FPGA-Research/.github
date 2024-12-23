@@ -23,7 +23,7 @@ Group of Dirk Koch and his great students and postdocs.
 ### FPGA Operating Systems
 - [FOS](https://github.com/FPGA-Research/fos) - FPGA Operating System
 
-### Takeouts, Chips, Hardware, etc. 
+### Tapeouts, Chips, Hardware, etc. 
 - [FABulous Sky](https://github.com/FPGA-Research/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130) - A heterogeneous FPGA fabric in Skywater130
 - [FuseRISC](https://github.com/FPGA-Research/fuserisc)
 - [eFPGA](https://github.com/FPGA-Research/eFPGA---RTL-to-GDS-with-SKY130) - RTL-to-GDS with SKY130
