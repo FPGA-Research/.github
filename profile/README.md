@@ -1,14 +1,38 @@
 # FPGA-Research
 Group of Dirk Koch and his great students and postdocs.
+[Novel Computing Technologies Group @ University Heidelberg](https://www.ziti.uni-heidelberg.de/de/forschung/nct.html)
 
+## Projects
 
-<!--
+### FPGA Fabric generator
+[FABulous](https://github.com/FPGA-Research/FABulous) - FPGA Fabric generator
+[FABulator](https://github.com/FPGA-Research/FABulator) - Graphical frontend for FABulous
 
-**Here are some ideas to get you started:**
+### Bitstream analyzation and manipulation
+[GoAhead](https://github.com/FPGA-Research/GoAhead)
+[byteman](https://github.com/FPGA-Research/byteman)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Security
+[FPGA-VS-Web](https://github.com/FPGA-Research/FPGA-VS-Web) - FPGA Virus Scanner Web Application
+[FPGA Virus scanner](https://github.com/FPGA-Research/FPGAVirusScanne) -  Program to scan for malicious FPGA designs
+
+### Database Accelerator
+[OrkhestraFPGAStream](https://github.com/FPGA-Research/OrkhestraFPGAStream)
+
+### FPGA Operating Systems
+[FOS](https://github.com/FPGA-Research/fos) - FPGA Operating System
+
+### Takeouts, Chips, Hardware, etc. 
+[FABulous Sky](https://github.com/FPGA-Research/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130) - A heterogeneous FPGA fabric in Skywater130
+[FuseRISC](https://github.com/FPGA-Research/fuserisc)
+[eFPGA](https://github.com/FPGA-Research/eFPGA---RTL-to-GDS-with-SKY130) - RTL-to-GDS with SKY130
+[FABulous-SKY130](https://github.com/FPGA-Research/FABulous-SKY130)
+
+### Other
+[XilinxTCL_utilities](https://github.com/FPGA-Research/XilinxTCL_utilities) - A collection of tcl script for Xilinx FPGAs
+[zynq-ultrascale-readback-capture](https://github.com/FPGA-Research/zynq-ultrascale-readback-capture) - How to do readback capture on the Zynq UltraScale
+[readdebugbitstream](https://github.com/FPGA-Research/readdebugbitstream)
+
+## Related external projects, contributions and further readings
+[Yosys](https://github.com/YosysHQ/yosys) -  Yosys Open SYnthesis Suite
+[nextpnr](https://github.com/YosysHQ/nextpnr) - A portable FPGA place and route tool
