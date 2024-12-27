@@ -24,7 +24,7 @@ Group of Dirk Koch and his great students and postdocs.
 - [FOS](https://github.com/FPGA-Research/fos) - FPGA Operating System
 
 ### Tapeouts, Chips, Hardware, etc. 
-- [Open-Everything FPGA in Skywater130](https://github.com/FPGA-Research/open_eFPGA_v2)
+- [Open-Everything FPGA in Skywater130](https://github.com/FPGA-Research/open_eFPGA_v2) - Demonstration of the fully open FABulous eFPGA using the OpenLane flow.
 - [FABulous Sky](https://github.com/FPGA-Research/FABulous-Sky---a-heterogeneous-FPGA-fabric-in-Skywater130) - A heterogeneous FPGA fabric in Skywater130
 - [FuseRISC](https://github.com/FPGA-Research/fuserisc)
 - [eFPGA](https://github.com/FPGA-Research/eFPGA---RTL-to-GDS-with-SKY130) - RTL-to-GDS with SKY130
