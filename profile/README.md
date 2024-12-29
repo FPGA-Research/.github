@@ -29,8 +29,7 @@ Group of Dirk Koch and his great students and postdocs.
 - [FuseRISC](https://github.com/FPGA-Research/fuserisc)
 - [eFPGA](https://github.com/FPGA-Research/eFPGA---RTL-to-GDS-with-SKY130) - RTL-to-GDS with SKY130
 - [FABulous-SKY130](https://github.com/FPGA-Research/FABulous-SKY130)
-- [open_eFPGA_v2](https://github.com/FPGA-Research/open_eFPGA_v2)
-- [FABulous_board](https://github.com/FPGA-Research/FABulous_board) -A PCB created for FABulous FPGAs, based on the caravel board.
+- [FABulous_board](https://github.com/FPGA-Research/FABulous_board) - A PCB created for FABulous FPGAs, based on the Caravel board
 
 ### Other Projects
 - [XilinxTCL_utilities](https://github.com/FPGA-Research/XilinxTCL_utilities) - A collection of tcl scripts for Xilinx FPGAs
