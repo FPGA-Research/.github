@@ -1,5 +1,4 @@
 # FPGA-Research
-Group of Dirk Koch and his great students and postdocs.
 
 [Novel Computing Technologies Group @ University Heidelberg](https://www.ziti.uni-heidelberg.de/de/forschung/nct.html)
 
@@ -31,6 +30,9 @@ Group of Dirk Koch and his great students and postdocs.
 - [FABulous-SKY130](https://github.com/FPGA-Research/FABulous-SKY130)
 - [open_eFPGA_v2](https://github.com/FPGA-Research/open_eFPGA_v2)
 - [FABulous_board](https://github.com/FPGA-Research/FABulous_board) -A PCB created for FABulous FPGAs, based on the caravel board.
+
+### BMBF Projects
+- [OWAS](https://github.com/FPGA-Research/OWAS) - Open-source design tools for flexible chip systems in AI and cryptography
 
 ### Other Projects
 - [XilinxTCL_utilities](https://github.com/FPGA-Research/XilinxTCL_utilities) - A collection of tcl scripts for Xilinx FPGAs
