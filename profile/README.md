@@ -28,8 +28,10 @@
 - [FuseRISC](https://github.com/FPGA-Research/fuserisc)
 - [eFPGA](https://github.com/FPGA-Research/eFPGA---RTL-to-GDS-with-SKY130) - RTL-to-GDS with SKY130
 - [FABulous-SKY130](https://github.com/FPGA-Research/FABulous-SKY130)
-- [open_eFPGA_v2](https://github.com/FPGA-Research/open_eFPGA_v2)
-- [FABulous_board](https://github.com/FPGA-Research/FABulous_board) -A PCB created for FABulous FPGAs, based on the caravel board.
+- [FABulous_board](https://github.com/FPGA-Research/FABulous_board) - A PCB created for FABulous FPGAs, based on the caravel board.
+
+#### External Projects
+- [Greyhound SoC](https://github.com/mole99/greyhound-ihp) - CV32E40X + FABulous fabric on IHP SG13G2 0.13 μm BiCMOS process 
 
 ### BMBF Projects
 - [OWAS](https://github.com/FPGA-Research/OWAS) - Open-source design tools for flexible chip systems in AI and cryptography
