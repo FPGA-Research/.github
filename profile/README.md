@@ -29,6 +29,7 @@
 - [eFPGA](https://github.com/FPGA-Research/eFPGA---RTL-to-GDS-with-SKY130) - RTL-to-GDS with SKY130
 - [FABulous-SKY130](https://github.com/FPGA-Research/FABulous-SKY130)
 - [FABulous_board](https://github.com/FPGA-Research/FABulous_board) - A PCB created for FABulous FPGAs, based on the caravel board.
+- [FPGA IGNITE 2024](https://github.com/FPGA-Research/FPGA_IGNITE_2024) - MPD Submission from FPGA Ignite Summer School 2024 at Heidelberg University
 
 #### External Projects
 - [Greyhound SoC](https://github.com/mole99/greyhound-ihp) - CV32E40X + FABulous fabric on IHP SG13G2 0.13 μm BiCMOS process 
