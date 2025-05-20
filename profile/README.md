@@ -14,7 +14,7 @@
 
 ### Security
 - [FPGA-VS-Web](https://github.com/FPGA-Research/FPGA-VS-Web) - FPGA Virus Scanner Web Application
-- [FPGA Virus scanner](https://github.com/FPGA-Research/FPGAVirusScanne) - Program to scan for malicious FPGA designs
+- [FPGA Virus scanner](https://github.com/FPGA-Research/FPGAVirusScanner) - Program to scan for malicious FPGA designs
 
 ### Database Accelerator
 - [OrkhestraFPGAStream](https://github.com/FPGA-Research/OrkhestraFPGAStream)
