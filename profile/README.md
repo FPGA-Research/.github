@@ -34,7 +34,7 @@
 #### External Projects
 - [Greyhound SoC](https://github.com/mole99/greyhound-ihp) - CV32E40X + FABulous fabric on IHP SG13G2 0.13 μm BiCMOS process 
 
-### BMBF Projects
+### BMFTR Projects
 - [OWAS](https://github.com/FPGA-Research/OWAS) - Open-source design tools for flexible chip systems in AI and cryptography
 
 ### Other Projects
